@@ -1,0 +1,26 @@
+body {
+    color: #faebd7;
+    background-color: #add8e6;
+    font-family:arial;
+    text-align: center;
+}
+
+#title {
+    color: #7f91a6;
+    background-color: #e6bbad;
+    padding: 10px;
+    font-family: Impact;
+    font-weight: 200;
+}
+
+a:hover {
+    color: #faebd7;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+img {
+    width: 19%;
+}
